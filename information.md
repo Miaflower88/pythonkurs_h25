@@ -1,4 +1,4 @@
 # information i Markdown
 - En liste
-- En til 
+- En til
 Mye mer informasjon
